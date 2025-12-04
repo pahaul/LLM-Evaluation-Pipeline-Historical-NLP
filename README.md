@@ -2,6 +2,8 @@
 
 This repository documents the scripts and processed files created for the Master's thesis "Large Language Models as the Foundation for Adaptive Workflows in Automated Text Analysis for the Digital Humanities."
 
+A detailed write-up of the experiments, methodology, and results is available in the accompanying blog article:  
+**[Read the full blog post here](https://pahaul.github.io)**  
 
 ## Core Focus & Implemented Data Workflow
 
